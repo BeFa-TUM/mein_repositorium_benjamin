@@ -1,2 +1,3 @@
 # Mein erstes Git Repositorium
-- 2025-01-27
+- Benjamin :v:
+- 2025-01-27 + 2025-01-28
